@@ -1,0 +1,22 @@
+.header {
+  height: 80px;
+  background-color: #1c2b35;
+  display: flex;
+  justify-content: space-around;
+}
+
+.navLogo {
+  padding: 20px 0px;
+}
+
+.navLink {
+  margin: auto 0px;
+}
+
+.link {
+  padding: 0px 10px;
+  color: aliceblue;
+}
+.link:hover {
+  color: rgb(255, 166, 58);
+}
